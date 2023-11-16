@@ -1,4 +1,4 @@
-# Lead Scoring Case Study - Upgrad
+# Lead Scoring X Online Education
 
 ## Problem Statement
 
